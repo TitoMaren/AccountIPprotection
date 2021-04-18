@@ -1,0 +1,9 @@
+main: bungee.main.BAipp
+version: 2.4.3
+name: AccountIPprotection
+author: TitoMaren
+
+commands:
+  aipp:
+    usage: /<command>
+    description: principal command of plugin

@@ -1,0 +1,9 @@
+main: tm.aipp.main.SAipp
+version: 3.5.1
+name: AccountIPprotection
+api-version: 1.13
+author: TitoMaren
+
+commands:
+  aipp:
+    description: The principal command of plugin
